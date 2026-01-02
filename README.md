@@ -77,7 +77,3 @@ Resume Analyzer: AI-powered scoring and improvement suggestions for resumes.
 Gamified Assessments: Quizzes that unlock nodes in the 3D roadmap.
 
 Mobile App: Flutter-based application for on-the-go guidance.
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.# Career-AI-Prototype
