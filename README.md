@@ -1,4 +1,5 @@
 AI Powered Career Advisor Platform 🚀
+https://careerai-prototype.netlify.app/
 
 Bridging the gap where only 10.4% of Indian students receive formal career guidance.
 
